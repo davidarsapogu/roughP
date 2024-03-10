@@ -1,0 +1,2 @@
+19:12:01.366 [main] INFO  log4j.LogFile_Impl - This is On Finish Method: [ResultMap map=[[TestResult name=homePage_Test001 status=SUCCESS method=Home_TestCases.homePage_Test001()[pri:0, instance:facebook.Home_TestCases@58e6d4b8] output={null}]]]
+19:12:01.380 [main] INFO  log4j.LogFile_Impl - This is On Finish Method: [ResultMap map=[[TestResult name=homePage_Test002 status=FAILURE method=Home_TestCases.homePage_Test002()[pri:0, instance:facebook.Home_TestCases@58e6d4b8] output={null}]]]

@@ -1,0 +1,47 @@
+15:48:05.185 [main] DEBUG log4j.LogFile_Impl - i am from debug
+15:48:05.203 [main] ERROR log4j.LogFile_Impl - i am from error
+15:48:05.203 [main] INFO  log4j.LogFile_Impl - i am from info
+15:48:05.204 [main] FATAL log4j.LogFile_Impl - i am from fatal===
+16:09:48.919 [main] DEBUG log4j.LogFile_Impl - i am from debug
+16:09:48.929 [main] ERROR log4j.LogFile_Impl - i am from error
+16:09:48.930 [main] INFO  log4j.LogFile_Impl - i am from info
+16:09:48.930 [main] FATAL log4j.LogFile_Impl - i am from fatal===
+16:17:28.065 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test001 Passed
+16:31:09.715 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test001 Passed
+16:32:07.198 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test001 Passed
+16:32:08.387 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test002 Passed
+16:37:41.012 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test001 Passed
+16:40:01.378 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test001 Passed
+16:42:26.930 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test001 Passed
+16:44:27.906 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test001 Passed
+16:47:09.620 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test001 Passed
+16:47:10.474 [main] ERROR log4j.LogFile_Impl - homePage_Test002 Failed
+16:49:13.638 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test001 Passed
+16:49:14.661 [main] ERROR log4j.LogFile_Impl - homePage_Test002 Failed
+17:29:55.666 [main] INFO  log4j.LogFile_Impl - Test context: C:\Users\INDIA\eclipse-workspace\DS-David\test-output\Suite
+17:30:04.561 [main] INFO  log4j.LogFile_Impl - Test Started: homePage_Test001
+17:30:04.666 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test001 Passed
+17:30:04.677 [main] INFO  log4j.LogFile_Impl - Test Succefull: homePage_Test001
+17:30:05.501 [main] INFO  log4j.LogFile_Impl - Test Started: homePage_Test002
+17:30:05.577 [main] ERROR log4j.LogFile_Impl - homePage_Test002 Failed
+17:30:05.583 [main] ERROR log4j.LogFile_Impl - Test Failed: homePage_Test002
+17:30:06.495 [main] INFO  log4j.LogFile_Impl - This is On Finish Method: [ResultMap map=[[TestResult name=homePage_Test001 status=SUCCESS method=Home_TestCases.homePage_Test001()[pri:0, instance:facebook.Home_TestCases@29e6eb25] output={null}]]]
+17:30:06.496 [main] INFO  log4j.LogFile_Impl - This is On Finish Method: [ResultMap map=[[TestResult name=homePage_Test002 status=FAILURE method=Home_TestCases.homePage_Test002()[pri:0, instance:facebook.Home_TestCases@29e6eb25] output={null}]]]
+17:56:07.199 [main] INFO  log4j.LogFile_Impl - Test context: C:\Users\INDIA\eclipse-workspace\DS-David\test-output\Suite
+17:56:16.192 [main] INFO  log4j.LogFile_Impl - Test Started: homePage_Test001
+17:56:16.291 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test001 Passed
+17:56:16.301 [main] INFO  log4j.LogFile_Impl - Test Succefull: homePage_Test001
+17:56:17.238 [main] INFO  log4j.LogFile_Impl - Test Started: homePage_Test002
+17:56:17.306 [main] ERROR log4j.LogFile_Impl - homePage_Test002 Failed
+17:56:17.313 [main] ERROR log4j.LogFile_Impl - Test Failed: homePage_Test002
+17:56:18.622 [main] INFO  log4j.LogFile_Impl - This is On Finish Method: [ResultMap map=[[TestResult name=homePage_Test001 status=SUCCESS method=Home_TestCases.homePage_Test001()[pri:0, instance:facebook.Home_TestCases@29e6eb25] output={null}]]]
+17:56:18.624 [main] INFO  log4j.LogFile_Impl - This is On Finish Method: [ResultMap map=[[TestResult name=homePage_Test002 status=FAILURE method=Home_TestCases.homePage_Test002()[pri:0, instance:facebook.Home_TestCases@29e6eb25] output={null}]]]
+17_59_10.182 [main] INFO  log4j.LogFile_Impl - Test context: C:\Users\INDIA\eclipse-workspace\DS-David\test-output\Suite
+17_59_17.848 [main] INFO  log4j.LogFile_Impl - Test Started: homePage_Test001
+17_59_17.962 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test001 Passed
+17_59_17.968 [main] INFO  log4j.LogFile_Impl - Test Succefull: homePage_Test001
+17_59_18.728 [main] INFO  log4j.LogFile_Impl - Test Started: homePage_Test002
+17_59_18.789 [main] ERROR log4j.LogFile_Impl - homePage_Test002 Failed
+17_59_18.799 [main] ERROR log4j.LogFile_Impl - Test Failed: homePage_Test002
+17_59_19.779 [main] INFO  log4j.LogFile_Impl - This is On Finish Method: [ResultMap map=[[TestResult name=homePage_Test001 status=SUCCESS method=Home_TestCases.homePage_Test001()[pri:0, instance:facebook.Home_TestCases@63192798] output={null}]]]
+17_59_19.780 [main] INFO  log4j.LogFile_Impl - This is On Finish Method: [ResultMap map=[[TestResult name=homePage_Test002 status=FAILURE method=Home_TestCases.homePage_Test002()[pri:0, instance:facebook.Home_TestCases@63192798] output={null}]]]

@@ -1,0 +1,6 @@
+19:04:00.345 [main] INFO  log4j.LogFile_Impl - Test context: C:\Users\INDIA\eclipse-workspace\DS-David\test-output\Suite
+19:04:13.226 [main] INFO  log4j.LogFile_Impl - Test Started: homePage_Test001
+19:04:13.305 [main] INFO  log4j.LogFile_Impl - TestCase homePage_Test001 Passed
+19:04:13.311 [main] INFO  log4j.LogFile_Impl - Test Succefull: homePage_Test001
+19:04:14.734 [main] INFO  log4j.LogFile_Impl - Test Started: homePage_Test002
+19:04:14.789 [main] ERROR log4j.LogFile_Impl - homePage_Test002 Failed
